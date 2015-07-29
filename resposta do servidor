@@ -1,0 +1,7 @@
+{
+	"status" : "estável"
+	"coordenadas":[
+		{"latitude":"123", "longitude":"456"},
+		{"latitude":"456", "longitute":"789"}
+	]
+}
